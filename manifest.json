@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "海淀青年人才安居补贴填报助手",
+  "version": "0.5.2",
+  "description": "从本地 JSON 文件填写指定申请页面，不保存资料、不提交申请。",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "填报助手",
+    "default_popup": "popup.html"
+  }
+}

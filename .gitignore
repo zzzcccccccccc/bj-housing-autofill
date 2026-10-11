@@ -1,0 +1,7 @@
+.DS_Store
+
+# Keep real applicant data out of this repository.
+/*.json
+!/manifest.json
+!/资料模板.json
+!/资料示例.json
